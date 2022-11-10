@@ -287,3 +287,29 @@ main section img{
     width: 60%;
   }
 }
+
+h3{
+  margin-left: 800px;
+}
+
+.river1{
+  margin-top:50px ;
+  margin-left: 700px;
+}
+.river2{
+  margin-left:700px ;
+  margin-top: 50px;
+}
+.river3{
+  margin-left:700px ;
+}
+.salmon{
+  margin-left: 300px;
+}
+
+.utah{
+  margin-left: 350px;
+}
+.grand{
+  margin-left: 50px;
+}
